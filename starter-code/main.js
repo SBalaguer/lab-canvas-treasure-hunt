@@ -101,6 +101,7 @@ playerImage.addEventListener('load', () =>{
         drawEverything();
     })
 })
+
 let score = 0
 window.addEventListener('keydown', (event) => {
     // Stop the default behavior (moving the screen to the left/up/right/down)
